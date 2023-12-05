@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <body>
+  <div id="header" aling="center"> <img src="https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif" width="300" />
+  </div>
   <div class="profile">
     <h1>Hello ( ͡❛ . ͡❛) , I'm Ruben</h1>
     <p>As a skilled Full Stack Developer with proficiency in C#, PHP, and solid knowledge in SQL, I bring a strong background in computer engineering coupled with a passion for technological innovation. With a proactive mindset and attention to detail, I thrive in creating robust and efficient solutions across the technological stack. My multifaceted experience ranges from backend development in C# to dynamic web applications using PHP, with a solid command of SQL for seamless data management.</p>
